@@ -1,0 +1,23 @@
+{
+  "@context": "https://www.w3.org/ns/did/v1",
+  "id": "did:web:{masamichi929}.github.io:did",
+  "verificationMethod": [
+    {
+      "id": "did:web:{masamichi929}.github.io:did#key1",
+      "type": "EcdsaSecp256k1VerificationKey2019",
+      "controller": "did:web:{masamichi929}.github.io:did",
+      "publicKeyJwk": {
+        "kty": "EC",
+        "x": "DAR6YaG79jkRvidM_BCmEyb_6dnOAZ4hkwkND2TA_pg",
+        "y": "k4xLl2vdo0fFu5fyyKoHpGrzH_HNQmgnlOfx0mSBKCQ",
+        "crv": "secp256k1"
+      }
+    }
+  ],
+  "authentication": [
+    "did:web:{masamichi929}.github.io:did#key1"
+  ],
+  "assertionMethod": [
+    "did:web:{masamichi929}.github.io:did#key1"
+  ]
+}
