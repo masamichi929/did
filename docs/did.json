@@ -8,8 +8,8 @@
       "controller": "did:web:masamichi929.github.io:did",
       "publicKeyJwk": {
         "kty": "EC",
-        "x": "DAR6YaG79jkRvidM_BCmEyb_6dnOAZ4hkwkND2TA_pg",
-        "y": "k4xLl2vdo0fFu5fyyKoHpGrzH_HNQmgnlOfx0mSBKCQ",
+        "x": "KgiuFc0YwDTNoM1Wl65Hek-kIAdUhtL2WP5cBtJdOCM",
+        "y": "CBYOdq-ETN8G4NE_KkCmnz0wdJiaFEdqIIgNOWi2lKA",
         "crv": "secp256k1"
       }
     }
